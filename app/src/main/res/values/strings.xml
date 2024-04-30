@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">guessGame</string>
+    <string name="question">Guess Number Between 0 to 20</string>
+    <string name="title">Guess The Number</string>
+    <string name="button">Guess</string>
+    <string name="again">Replay</string>
+    <string name="score">Your guess is : 5</string>
+    <string name="user_Input">Enter Your guess Number</string>
+    <string name="home">Home</string>
+</resources>
